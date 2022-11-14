@@ -1,0 +1,12 @@
+postgres:
+  user: 'vlad'
+  password: 123456
+  host: 'localhost'
+  port: 5432
+
+rabbitmq:
+  user: 'rmquser'
+  password: 'rmqpass'
+  host: 'localhost'
+  port: 5672
+
